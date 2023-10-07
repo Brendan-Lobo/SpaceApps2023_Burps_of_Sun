@@ -1,0 +1,1 @@
+export OMNIDATA_PATH=omniweb_data
