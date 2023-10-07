@@ -1,1 +1,1 @@
-# SpaceApps2023_Burps_of_the_SUN
+# SpaceApps2023_Burps_of_Sun
